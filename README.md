@@ -65,7 +65,7 @@ Add this to your **app level** `build.gradle`:
     
    ```gradle
    dependencies {
-       compile 'com.github.drawers:SpinnerDatePicker:2.0.1'
+       implementation 'com.github.drawers:SpinnerDatePicker:2.0.1'
    }
    ```             
 
